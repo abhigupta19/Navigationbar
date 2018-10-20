@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item  android:id="@+id/prof" android:title="Profile" android:icon="@drawable/pro"/>
+    <item  android:id="@+id/ana" android:title="Analysis"/>
+    <item  android:id="@+id/set" android:title="Setting"/>
+    <item  android:id="@+id/acc" android:title="Account" android:icon="@drawable/hoome"/>
+    <item  android:id="@+id/fee" android:title="Feedback"/>
+    <item  android:id="@+id/con" android:title="Contact"/>
+    <item  android:id="@+id/log" android:title="Logout"/>
+
+</menu>
